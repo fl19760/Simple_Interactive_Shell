@@ -1,0 +1,17 @@
+write(1, "            |\      |\              \n", strlen(37));                
+write(1, "            | \     | \             \n", strlen(37));         
+write(1, "            |  \____|  \__          \n", strlen(37));
+write(1, "     	   __/              \         \n", strlen(37));                     
+write(1, "        /             ___   \       \n", strlen(37));                      
+write(1, "       _\            <_@_>   \__    \n", strlen(37));                  
+write(1, "   ___/                         |   \n", strlen(37));                               
+write(1, "  /                             \__ \n", strlen(37));
+write(1, " /                 ______          \\n", strlen(37));
+write(1, "/__               |     \__________|\n", strlen(37));
+write(1, "   /               \_     \/\/\/\/\/\n", strlen(37));
+write(1, "  /                  \_             \n", strlen(37));
+write(1, " / __     ___          \/\/\/\/\/\  \n", strlen(37));
+write(1, "| / /   _/   | /|  _______________) \n", strlen(37));
+write(1, "\/ /  _/     |/ | /                 \n", strlen(37));
+write(1, "  / _/          |/                  \n", strlen(37));
+write(1, " |_/                                \n", strlen(37));
