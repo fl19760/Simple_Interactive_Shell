@@ -24,14 +24,10 @@ It is one of the most powerful features of a Unix-like shell.
 
 Redirection is achived by three special characters '<', '>', '|'
 
-==============================================================
-
 **Scripting Support**
 -------------------
 
 To put the shell commands in a plain file i.e creating a program of shell commands in non-interactive mode.
-
-==============================================================
 
 **Job Control Support**
 ---------------------
@@ -39,8 +35,6 @@ To put the shell commands in a plain file i.e creating a program of shell comman
 This deals with pausing and resuming exxecution of a job.
 
 Some programs can be put in 'background' while the user can run other commands.
-
-==============================================================
 
 **Keeping History**
 -----------------
